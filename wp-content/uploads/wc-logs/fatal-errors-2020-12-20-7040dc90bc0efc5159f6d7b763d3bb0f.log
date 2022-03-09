@@ -1,0 +1,136 @@
+2020-12-20T06:21:34+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\header.php:20
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-includes\template.php(730): require_once()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-includes\template.php(676): load_template('C:\\Program File...', true, Array)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\index.php(16): get_header()
+#4 C:\Program Files\xampp\htdocs\myweb\wp-includes\template-loader.php(106): include('C:\\Program File...')
+#5 C:\Program Files\xampp\htdocs\myweb\wp-blog-header.php(19): require_once('C:\\Program File...')
+#6 C:\Program Files\xampp\htdocs\myweb\index.php(17): require('C:\\Program File...')
+#7 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\header.php on line 20
+
+2020-12-20T15:59:25+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T15:59:27+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T15:59:29+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T15:59:33+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T15:59:35+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T15:59:37+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T15:59:53+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\header.php:20
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-includes\template.php(730): require_once()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-includes\template.php(676): load_template('C:\\Program File...', true, Array)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\index.php(16): get_header()
+#4 C:\Program Files\xampp\htdocs\myweb\wp-includes\template-loader.php(106): include('C:\\Program File...')
+#5 C:\Program Files\xampp\htdocs\myweb\wp-blog-header.php(19): require_once('C:\\Program File...')
+#6 C:\Program Files\xampp\htdocs\myweb\index.php(17): require('C:\\Program File...')
+#7 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\header.php on line 20
+
+2020-12-20T16:00:30+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:00:36+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:00:39+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:00:43+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:00:46+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:00:48+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:00:51+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:01:08+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:01:17+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:01:23+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:01:51+00:00 CRITICAL Declaration of FW_Auto_Install_Upgrader_Skin::feedback($string) must be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\marketo\inc\includes\sub-includes\auto-setup\class-fw-auto-install.php on line 1251
+
+2020-12-20T16:06:41+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\header.php:20
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-includes\template.php(730): require_once()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-includes\template.php(676): load_template('C:\\Program File...', true, Array)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\index.php(16): get_header()
+#4 C:\Program Files\xampp\htdocs\myweb\wp-includes\template-loader.php(106): include('C:\\Program File...')
+#5 C:\Program Files\xampp\htdocs\myweb\wp-blog-header.php(19): require_once('C:\\Program File...')
+#6 C:\Program Files\xampp\htdocs\myweb\index.php(17): require('C:\\Program File...')
+#7 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\wp-amilia\header.php on line 20
+
+2020-12-20T17:06:17+00:00 CRITICAL Array and string offset access syntax with curly braces is no longer supported in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\functions\custom_styling.php on line 1324
+
+2020-12-20T17:11:23+00:00 CRITICAL Array and string offset access syntax with curly braces is no longer supported in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\functions\custom_styling.php on line 1325
+
+2020-12-20T17:15:18+00:00 CRITICAL Array and string offset access syntax with curly braces is no longer supported in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\functions\custom_styling.php on line 1362
+
+2020-12-20T17:15:46+00:00 CRITICAL Array and string offset access syntax with curly braces is no longer supported in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\functions\custom_styling.php on line 1392
+
+2020-12-20T17:19:58+00:00 CRITICAL Uncaught TypeError: array_diff_key(): Argument #2 must be of type array, bool given in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\classes\rt_customize_panel.php:262
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\classes\rt_customize_panel.php(262): array_diff_key(Array, false)
+#1 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): RTFramework_Customize_Panel->check_new_options('')
+#2 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\Program Files\xampp\htdocs\myweb\wp-settings.php(557): do_action('init')
+#5 C:\Program Files\xampp\htdocs\myweb\wp-config.php(90): require_once('C:\\Program File...')
+#6 C:\Program Files\xampp\htdocs\myweb\wp-load.php(37): require_once('C:\\Program File...')
+#7 C:\Program Files\xampp\htdocs\myweb\wp-admin\admin.php(34): require_once('C:\\Program File...')
+#8 C:\Program Files\xampp\htdocs\myweb\wp-admin\customize.php(13): require_once('C:\\Program File...')
+#9 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\classes\rt_customize_panel.php on line 262
+
+2020-12-20T17:23:24+00:00 CRITICAL syntax error, unexpected token "=>", expecting ")" in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\classes\rt_customize_panel.php on line 262
+
+2020-12-20T17:23:36+00:00 CRITICAL Uncaught TypeError: array_diff_key(): Argument #2 must be of type array, bool given in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\classes\rt_customize_panel.php:262
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\classes\rt_customize_panel.php(262): array_diff_key(Array, false)
+#1 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): RTFramework_Customize_Panel->check_new_options('')
+#2 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\Program Files\xampp\htdocs\myweb\wp-settings.php(557): do_action('init')
+#5 C:\Program Files\xampp\htdocs\myweb\wp-config.php(90): require_once('C:\\Program File...')
+#6 C:\Program Files\xampp\htdocs\myweb\wp-load.php(37): require_once('C:\\Program File...')
+#7 C:\Program Files\xampp\htdocs\myweb\wp-admin\admin.php(34): require_once('C:\\Program File...')
+#8 C:\Program Files\xampp\htdocs\myweb\wp-admin\customize.php(13): require_once('C:\\Program File...')
+#9 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\naturalife\rt-framework\classes\rt_customize_panel.php on line 262
+
+2020-12-20T17:27:10+00:00 CRITICAL Array and string offset access syntax with curly braces is no longer supported in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\porto\inc\functions\general.php on line 178
+
+2020-12-20T18:22:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WOODMART_Dynamiccss::save_css(), 2 passed in C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php on line 287 and exactly 3 expected in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\woodmart\inc\classes\Dynamiccss.php:118
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): WOODMART_Dynamiccss->save_css(Array, '.page-title-def...')
+#1 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\redux-framework\redux-core\inc\extensions\customizer\class-redux-extension-customizer.php(674): do_action('redux/options/w...', Array, '.page-title-def...')
+#4 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): Redux_Extension_Customizer->customizer_save_after(Object(WP_Customize_Manager))
+#5 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-customize-manager.php(3577): do_action('customize_save_...', Object(WP_Customize_Manager))
+#8 C:\Program Files\xampp\htdocs\myweb\wp-includes\theme.php(3440): WP_Customize_Manager->_publish_changeset_values(161)
+#9 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): _wp_customize_publish_changeset('publish', 'auto-draft', Object(WP_Post))
+#10 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#11 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#12 C:\Program Files\xampp\htdocs\myweb\wp-includes\post.php(4902): do_action('transition_post...', 'publish', 'auto-draft', Object(WP_Post))
+#13 C:\Program Files\xampp\htdocs\myweb\wp-includes\post.php(4209): wp_transition_post_status('publish', 'auto-draft', Object(WP_Post))
+#14 C:\Program Files\xampp\htdocs\myweb\wp-includes\post.php(4411): wp_insert_post(Array, true, true)
+#15 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-customize-manager.php(2960): wp_update_post(Array, true)
+#16 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-customize-manager.php(2522): WP_Customize_Manager->save_changeset_post(Array)
+#17 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): WP_Customize_Manager->save('')
+#18 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#19 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#20 C:\Program Files\xampp\htdocs\myweb\wp-admin\admin-ajax.php(184): do_action('wp_ajax_customi...')
+#21 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\themes\woodmart\inc\classes\Dynamiccss.php on line 118
+

@@ -1,0 +1,66 @@
+2020-12-22T09:27:14+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(670): include_once()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(58): activate_plugin('category-wise-s...', 'http://localhos...', false)
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-22T09:27:15+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-22T09:27:15+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-22T09:27:21+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(670): include_once()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(58): activate_plugin('category-wise-s...', 'http://localhos...', false)
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-22T09:27:22+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-22T09:27:22+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-22T15:35:46+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:35:54+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:36:08+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:36:13+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:36:16+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:36:21+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:37:34+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:37:39+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Admin\Settings\ViewSettingsGeneral.php on line 10
+
+2020-12-22T15:37:55+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Admin\Settings\ViewSettingsGeneral.php on line 10
+
+2020-12-22T15:38:57+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\Framework\Font\ModelFont.php on line 8
+
+2020-12-22T15:40:01+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Renderable\Item\Heading\ItemHeading.php on line 11
+
+2020-12-22T15:40:08+00:00 CRITICAL Cannot use Nextend\Framework\Form\Element\Mixed as Mixed because 'Mixed' is a special class name in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\smart-slider-3\Nextend\Framework\Font\ModelFont.php on line 8
+

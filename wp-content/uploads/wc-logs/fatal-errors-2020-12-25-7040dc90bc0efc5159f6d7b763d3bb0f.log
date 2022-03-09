@@ -1,0 +1,42 @@
+2020-12-25T09:19:07+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(670): include_once()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(58): activate_plugin('category-wise-s...', 'http://localhos...', false)
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-25T09:19:08+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-25T09:19:08+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-25T09:19:10+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(670): include_once()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(58): activate_plugin('category-wise-s...', 'http://localhos...', false)
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-25T09:19:11+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+
+2020-12-25T09:19:11+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php:144
+Stack trace:
+#0 C:\Program Files\xampp\htdocs\myweb\wp-admin\includes\plugin.php(2299): include()
+#1 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(191): plugin_sandbox_scrape('category-wise-s...')
+#2 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\category-wise-search\category-wise-search.php on line 144
+

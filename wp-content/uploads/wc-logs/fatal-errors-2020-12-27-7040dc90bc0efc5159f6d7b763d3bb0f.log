@@ -1,0 +1,72 @@
+2020-12-27T15:46:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function rsssl_certificate::custom_error_handling(), 4 passed and exactly 5 expected in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php:234
+Stack trace:
+#0 [internal function]: rsssl_certificate->custom_error_handling(2, 'stream_socket_c...', 'C:\\Program File...', 199)
+#1 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(199): stream_socket_client('ssl://localhost...', 0, '', 5, 4, Resource id #858)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(46): rsssl_certificate->get_certinfo('https://localho...')
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(1439): rsssl_certificate->is_valid()
+#4 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(184): rsssl_admin->detect_configuration()
+#5 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): rsssl_admin->init('')
+#6 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#8 C:\Program Files\xampp\htdocs\myweb\wp-settings.php(420): do_action('plugins_loaded')
+#9 C:\Program Files\xampp\htdocs\myweb\wp-config.php(90): require_once('C:\\Program File...')
+#10 C:\Program Files\xampp\htdocs\myweb\wp-load.php(37): require_once('C:\\Program File...')
+#11 C:\Program Files\xampp\htdocs\myweb\wp-admin\admin.php(34): require_once('C:\\Program File...')
+#12 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(10): require_once('C:\\Program File...')
+#13 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php on line 234
+
+2020-12-27T16:10:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function rsssl_certificate::custom_error_handling(), 4 passed and exactly 5 expected in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php:234
+Stack trace:
+#0 [internal function]: rsssl_certificate->custom_error_handling(2, 'stream_socket_c...', 'C:\\Program File...', 199)
+#1 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(199): stream_socket_client('ssl://localhost...', 0, '', 5, 4, Resource id #858)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(46): rsssl_certificate->get_certinfo('https://localho...')
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(1439): rsssl_certificate->is_valid()
+#4 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(184): rsssl_admin->detect_configuration()
+#5 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): rsssl_admin->init('')
+#6 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#8 C:\Program Files\xampp\htdocs\myweb\wp-settings.php(420): do_action('plugins_loaded')
+#9 C:\Program Files\xampp\htdocs\myweb\wp-config.php(90): require_once('C:\\Program File...')
+#10 C:\Program Files\xampp\htdocs\myweb\wp-load.php(37): require_once('C:\\Program File...')
+#11 C:\Program Files\xampp\htdocs\myweb\wp-admin\admin.php(34): require_once('C:\\Program File...')
+#12 C:\Program Files\xampp\htdocs\myweb\wp-admin\plugins.php(10): require_once('C:\\Program File...')
+#13 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php on line 234
+
+2020-12-27T16:15:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function rsssl_certificate::custom_error_handling(), 4 passed and exactly 5 expected in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php:234
+Stack trace:
+#0 [internal function]: rsssl_certificate->custom_error_handling(2, 'stream_socket_c...', 'C:\\Program File...', 199)
+#1 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(199): stream_socket_client('ssl://localhost...', 0, '', 5, 4, Resource id #899)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(46): rsssl_certificate->get_certinfo('https://localho...')
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(1439): rsssl_certificate->is_valid()
+#4 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(184): rsssl_admin->detect_configuration()
+#5 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): rsssl_admin->init('')
+#6 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#8 C:\Program Files\xampp\htdocs\myweb\wp-settings.php(420): do_action('plugins_loaded')
+#9 C:\Program Files\xampp\htdocs\myweb\wp-config.php(90): require_once('C:\\Program File...')
+#10 C:\Program Files\xampp\htdocs\myweb\wp-load.php(37): require_once('C:\\Program File...')
+#11 C:\Program Files\xampp\htdocs\myweb\wp-admin\admin.php(34): require_once('C:\\Program File...')
+#12 C:\Program Files\xampp\htdocs\myweb\wp-admin\customize.php(13): require_once('C:\\Program File...')
+#13 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php on line 234
+
+2020-12-27T16:15:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function rsssl_certificate::custom_error_handling(), 4 passed and exactly 5 expected in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php:234
+Stack trace:
+#0 [internal function]: rsssl_certificate->custom_error_handling(2, 'stream_socket_c...', 'C:\\Program File...', 199)
+#1 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(199): stream_socket_client('ssl://localhost...', 0, '', 5, 4, Resource id #858)
+#2 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php(46): rsssl_certificate->get_certinfo('https://localho...')
+#3 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(1439): rsssl_certificate->is_valid()
+#4 C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-admin.php(184): rsssl_admin->detect_configuration()
+#5 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(287): rsssl_admin->init('')
+#6 C:\Program Files\xampp\htdocs\myweb\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\Program Files\xampp\htdocs\myweb\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#8 C:\Program Files\xampp\htdocs\myweb\wp-settings.php(420): do_action('plugins_loaded')
+#9 C:\Program Files\xampp\htdocs\myweb\wp-config.php(90): require_once('C:\\Program File...')
+#10 C:\Program Files\xampp\htdocs\myweb\wp-load.php(37): require_once('C:\\Program File...')
+#11 C:\Program Files\xampp\htdocs\myweb\wp-admin\admin.php(34): require_once('C:\\Program File...')
+#12 C:\Program Files\xampp\htdocs\myweb\wp-admin\index.php(10): require_once('C:\\Program File...')
+#13 {main}
+  thrown in C:\Program Files\xampp\htdocs\myweb\wp-content\plugins\really-simple-ssl\class-certificate.php on line 234
+

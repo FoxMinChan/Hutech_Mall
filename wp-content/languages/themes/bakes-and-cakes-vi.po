@@ -1,0 +1,20 @@
+# Translation of Themes - Bakes And Cakes in Vietnamese
+# This file is distributed under the same license as the Themes - Bakes And Cakes package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-12 10:46:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Bakes And Cakes\n"
+
+#: inc/tgmpa/recommended-plugins.php:58
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
